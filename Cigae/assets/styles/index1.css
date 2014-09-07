@@ -1,0 +1,20 @@
+/*this is for the product*/
+
+#jumbotron {
+	height: 500px;
+	background: black;
+}
+
+#jumbotron p {
+	color: white;
+}
+
+#jumbotron h1 {
+	color: white;
+}
+
+.border {
+	border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
