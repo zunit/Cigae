@@ -1,0 +1,2 @@
+# cigae
+### a Sails application
